@@ -28,3 +28,4 @@ API developed alongside Postman collection for testing and to prevent requests w
 
 <http://udagramfilterimage-env.eba-u5wp28wp.us-east-1.elasticbeanstalk.com>
 
+## Screenshots
