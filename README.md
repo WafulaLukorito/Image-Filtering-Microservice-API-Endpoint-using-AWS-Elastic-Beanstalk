@@ -28,4 +28,9 @@ API developed alongside Postman collection for testing and to prevent requests w
 
 <http://udagramfilterimage-env.eba-u5wp28wp.us-east-1.elasticbeanstalk.com>
 
-## Screenshots
+## Deployment Screenshots
+### Successful API Response of filtered image
+![Successful API Response of filtered image](https://github.com/WafulaLukorito/Udagram/blob/master/deployment_screenshots/successful%20api%20response.png?raw=true "Successful API Response of filtered image")
+
+### Succesful Deployment on AWS Elastic Beanstalk
+![Succesful Deployment on AWS Elastic Beanstalk](https://github.com/WafulaLukorito/Udagram/blob/master/deployment_screenshots/udagram.png?raw=true "Succesful Deployment on AWS Elastic Beanstalk")
