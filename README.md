@@ -1,4 +1,4 @@
-# Image Filtering Microservice API Endpoint using AWS Elastic Beanstalk
+# Image Filtering Microservice API Endpoint using AWS Elastic Beanstalk - A Cloud DevOps Project
 
 Image filtering microservice that deploys with `Elastic Beanstalk`  on `AWS` to deploy a restful API endpoint that takes an image url as a query parameter and returns the filtered image.
 
